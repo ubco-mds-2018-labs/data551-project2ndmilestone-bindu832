@@ -1,10 +1,10 @@
-*Dropbox link to prepared data:*
+**Dropbox link to prepared data:**
 https://www.dropbox.com/s/31gwg4p8wlmb3vu/crime_data.csv?dl=0
 
-*Original data obtained from:*
+**Original data obtained from:**
 https://catalog.data.gov/dataset/crime-data-from-2010-to-present
 
-*Questions answered through visualizations in miniposter:*
+**Questions answered through interpretation of visualizations in miniposter:**
 
 1. What are the major types of crimes committed in the city of Los Angeles? 
 What are the types of weapons frequently used for these crimes?
